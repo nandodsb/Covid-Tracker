@@ -21,10 +21,20 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/en/ "NodeJs")
-- [ChartJS](https://www.chartjs.org/ "Socket.io")
-- [MaterialUI](https://material-ui.com/pt/ "Socket.io")
 - [React](https://reactjs.org/ "React")
 
+
+------------
+
+<h3>Dependências</h3>
+
+- [Express](https://expressjs.com/ "Express")
+- [ChartJS](https://www.chartjs.org/ "Socket.io")
+- [MaterialUI](https://material-ui.com/pt/ "Socket.io")
+- [CountUpJS](https://inorganik.github.io/countUp.js/ "CountUp")
+- [Axios](https://www.npmjs.com/package/axios/ "Axios")
+
+  
 
 ------------
 
