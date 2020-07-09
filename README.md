@@ -20,19 +20,19 @@
 <h2>🚀 Tecnologias</h2>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
-- [NodeJS](https://nodejs.org/en/ "NodeJs")
-- [React](https://reactjs.org/ "React")
+- [NodeJS](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
 
 
 ------------
 
 <h3>Dependências</h3>
 
-- [Express](https://expressjs.com/ "Express")
-- [ChartJS](https://www.chartjs.org/ "Socket.io")
-- [MaterialUI](https://material-ui.com/pt/ "Socket.io")
-- [CountUpJS](https://inorganik.github.io/countUp.js/ "CountUp")
-- [Axios](https://www.npmjs.com/package/axios/ "Axios")
+- [Express](https://expressjs.com/)
+- [ChartJS](https://www.chartjs.org/)
+- [MaterialUI](https://material-ui.com/pt/)
+- [CountUpJS](https://inorganik.github.io/countUp.js/)
+- [Axios](https://www.npmjs.com/package/axios/)
 
   
 
@@ -59,7 +59,7 @@ Foi ministrado pelo <a href="https://github.com/adrianhajdin">Adrian Hajdin</a> 
 
 <h2>📃Licença</h2>
 
-Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/Chat-App/blob/master/LICENSE.md">Licença</a> e saiba mais.
+Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/Covid-Tracker/blob/master/LICENSE.md">Licença</a> e saiba mais.
 
 ------------
 
