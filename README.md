@@ -4,11 +4,12 @@
 </p>
 
 
+<div align="center">
 
-![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/Covid-Tracker) 
-![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/Covid-Tracker) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/Covid-Tracker) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/Covid-Tracker) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/Covid-Tracker)
+![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/Covid-Tracker?color=00ff00&&style=for-the-badge&logo=appveyor) 
+![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/Covid-Tracker?color=00ff00&&style=for-the-badge&logo=appveyor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/Covid-Tracker?color=00ff00&&style=for-the-badge&logo=appveyor) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/Covid-Tracker?color=00ff00&&style=for-the-badge&logo=appveyor) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/Covid-Tracker?color=00ff00&&style=for-the-badge&logo=appveyor)
 
-
+</div>
   
 
 <h2>📖 Sobre</h2>
